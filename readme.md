@@ -63,12 +63,6 @@ Caso_Pratico_JS/
 
 ---
 
-## 📸 Capturas de ecrã
-
-(opcional – adiciona imagens do site aqui)
-
----
-
 ## 👤 Autor
 
 Desenvolvido por **[José Gonçalves]**  
